@@ -1,5 +1,8 @@
 # Console
-<img src="https://banner2.kisspng.com/20180624/uso/kisspng-c-computer-icons-logo-5b2f8b7cd87ca9.0390539915298425568867.jpg" alt="C# Computer Icons Logo - others @kisspng">
+<div style="backgroud-color: #FFF;">
+  <img src="https://banner2.kisspng.com/20180624/uso/kisspng-c-computer-icons-logo-5b2f8b7cd87ca9.0390539915298425568867.jpg" alt="C# Console apps" width="300" />
+</div>
+
 This contains some Console applications developed with .Net Framework as learning.
 
 - **ConsoleGlobantChallenges:**
