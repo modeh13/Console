@@ -1,7 +1,5 @@
 # Console
-<div style="width: 100%; text-align:center; backgroud-color: #FFF;">
-  <img src="http://www.flamingoajans.com/assets/vendors/devicon/icons/csharp/csharp-line.svg" alt="C# Console apps" width="150" />
-</div>
+<img src="http://www.flamingoajans.com/assets/vendors/devicon/icons/csharp/csharp-line.svg" alt="C# Console apps" width="120" />
 
 This contains some Console applications developed with .Net Framework as learning.
 
